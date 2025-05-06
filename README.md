@@ -39,7 +39,7 @@ The AI uses the NegaMax variant of the Minimax algorithm, enhanced with Alpha-Be
 
 ## Screenshots
 
-
+![Home Screen](Game Start.png)
 
 ## 🛠️ Requirements
 
